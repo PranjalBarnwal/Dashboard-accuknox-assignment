@@ -1,3 +1,18 @@
+# Dashboard Assignment
+
+This project is a dashboard page where users can dynamically add and remove widgets within categories. It demonstrates managing state with a store management tool and allows for interactive updates to the dashboard layout.
+
+## Features
+
+1. **Dynamic JSON-Based Dashboard**: The dashboard is built using a JSON structure that defines categories, each containing multiple widgets.
+2. **Add and Remove Widgets**: Users can dynamically add or remove widgets from categories.
+3. **Customizable Widgets**: Users can specify a widget name and text content when adding a new widget to a category.
+4. **Search Functionality**: Users can search through a list of all available widgets.
+5. **Interactive UI**: Each widget includes a cross icon for removal, and there is an add widget button for creating new widgets.
+
+
+
+
 # React + Vite
 
 This project is a minimal setup to get React working with Vite. It includes Hot Module Replacement (HMR) and some basic ESLint rules.
